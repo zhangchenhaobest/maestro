@@ -1,3 +1,29 @@
+# maestro
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A framework for Claude Opus to intelligently orchestrate subagents.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+让 Claude Opus 智能编排子 Agent 的框架。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Maestro - A Framework for Claude Opus, GPT and local LLMs to Orchestrate Subagents
 
 
